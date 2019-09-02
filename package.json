@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://git-akshit.github.io/monsters-rolodex-react-app",
+  "homepage": "https://git-akshit.github.io/monsters-rolodex-react-app/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
